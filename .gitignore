@@ -1,2 +1,4 @@
 out
 node_modules
+package-lock.json
+rails-go-to-spec-*.vsix
